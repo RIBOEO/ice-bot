@@ -1,2 +1,0 @@
-# ice-bot
-a bot
